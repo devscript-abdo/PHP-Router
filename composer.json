@@ -1,0 +1,17 @@
+{
+    "name": "devscript/router",
+    "description": "Simple Router",
+    "authors": [
+        {
+            "name": "Elmarzougui Abdelghafour",
+            "email": "goldvision93@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "App\\":"Class"
+        }
+    },
+    "require": {}
+}
